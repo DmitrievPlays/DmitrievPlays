@@ -44,4 +44,4 @@
 
 <h3 align="left">And I like to develop my games in:</h3>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://bevyengine.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/b/bevy-1.svg" alt="bevy" width="40" height="40"/> </a>
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/> </a>
