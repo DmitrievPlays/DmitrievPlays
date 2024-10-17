@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitrievplays&label=Profile%20views&color=0e75b6&style=flat-square" alt="dmitrievplays" /> </p>
 
-- 🔭 I’m currently working on [Simple City Builder Game](https://github.com/DmitrievPlays/city_builder_bevy.git)
+- 🔭 I’m currently working on [Godot 3D Game](https://github.com/DmitrievPlays/MyFirstGodotGame)
 
 
 <h3 align="left">Languages I have an experience in:</h3>
