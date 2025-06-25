@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitrievplays&label=Profile%20views&color=0e75b6&style=flat-square" alt="dmitrievplays" /> </p>
 
-- 🔭 I’m currently working on [Fox Launcher](https://github.com/MrFoxsteil/FoxLauncher)
+- 🔭 I’m currently working on Fox Launcher
 
 
 <h3 align="left">Languages I have an experience in:</h3>
